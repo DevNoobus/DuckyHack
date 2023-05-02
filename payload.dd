@@ -15,9 +15,16 @@ CTRL t
 DELAY 1000
 ALT d
 DELAY 500
+STRING average height of a asian 14 year old
+ENTER
+DELAY 1000
+CTRL t
+DELAY 1000
+ALT d
+DELAY 500
 STRING https://www.youtube.com/watch?v=xvFZjo5PgG0
 ENTER
-DELAY 4000
+DELAY 8000
 CTRL SHIFT q
 DELAY 500
 CTRL SHIFT q
