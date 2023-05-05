@@ -8,6 +8,7 @@ wait for it to load.
 Drop all the files in payloadstuff into the circuitpy drive. 
 
 Make payload. Payload name should be "payload.dd"
+payloads are https://github.com/hak5/usbrubberducky-payloads
 
 
 
